@@ -28,5 +28,5 @@ It will produce four images as output, confusion matrices. It will also write so
 
 To run it:
 ```shell
-python scrape_tweets.py
+python analysis.py
 ```
